@@ -1,0 +1,33 @@
+D:\nearproject\
+├── .cargo\        # Rust-related files (if any)
+├── .rustup\       # Rustup installation files
+├── taskgenius\    # Your new Rust project for NEAR
+│   ├── src\       # Source files for taskgenius
+│   ├── Cargo.toml # Rust project configuration
+│   └── etc.
+
+
+D:\nearproject\
+├── .cargo\                # Rust-related files (if any)
+├── .rustup\               # Rustup installation files
+├── taskgenius\            # Your NEAR project in Rust
+│   ├── src\               # Rust source files for smart contracts
+│   ├── Cargo.toml         # Rust project configuration
+│   └── etc.               # Any additional configuration files for taskgenius
+├── frontend\              # React frontend for the TaskGenius UI
+│   ├── src\
+│   ├── public\
+│   ├── package.json       # Node dependencies for frontend
+│   ├── vite.config.js     # Vite configuration for the frontend
+│   └── etc.               # Other frontend configurations
+└── backend\               # Backend API (Flask with SQLAlchemy or Node.js)
+    ├── app.py             # Main file for Flask app or server.js if using Node.js
+    ├── requirements.txt   # Python dependencies (if Flask)
+    ├── package.json       # Node dependencies (if Node.js)
+    └── etc.               # Additional backend configurations
+
+
+https://testnet.mynearwallet.com/authorized-apps
+
+https://testnet.mynearwallet.com/
+
